@@ -1,4 +1,4 @@
-## Code from Unidata's metpy monday
+## Code from Unidata's Metpy Mondays
 
 <br>
 
